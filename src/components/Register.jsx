@@ -67,7 +67,7 @@ const Register = () => {
 
 
             <label htmlFor="" className='flex w-[80%] mx-auto font-bold'>Date of Birth:</label>
-            <input type="text" 
+            <input type="date" 
                    name="" id=""   className='inputField date' {...register("dob", {required:true})}/>
             {errors.dob?.type === 'required' && <p className='error'>Date of Birth is required</p>}
 
