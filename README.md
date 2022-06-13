@@ -5,10 +5,10 @@ This is an events webapp that allows visitors to register for an event, select t
 ## Technology used
 
 This project is built with 
-    -Reactjs, 
-    -TailwindCSS and some vanilla CSS 
-    -Form validation using React-hook-form because it handles rerendering pefectly and is faster than any othe method and mor secured
-    - Icons are gotten from React-icons as it eliminates the issue of sourcing and preparing icons, and its a veruy light dependency
+### Reactjs, 
+### TailwindCSS and some vanilla CSS 
+### Form validation using React-hook-form because it handles rerendering pefectly and is faster than any othe method and mor secured
+### Icons are gotten from React-icons as it eliminates the issue of sourcing and preparing icons, and its a veruy light dependency
 
 
 ## Deployment
